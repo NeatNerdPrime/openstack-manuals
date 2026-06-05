@@ -16,8 +16,6 @@ skip to
 
 * `Object Storage Installation Guide for 2025.1 (Epoxy) <https://docs.openstack.org/swift/2025.1/install/>`_
 
-* `Object Storage Installation Guide for 2024.2 (Dalmatian) <https://docs.openstack.org/swift/2024.2/install/>`_
-
 after configuring the appropriate nodes for it.
 
 You must use an account with administrative privileges to configure each node.
@@ -73,10 +71,8 @@ For more information about system requirements, see the
 `OpenStack 2026.1 (Gazpacho) Administrator Guides <https://docs.openstack.org/2026.1/admin/>`_,
 the
 `OpenStack 2025.2 (Flamingo) Administrator Guides <https://docs.openstack.org/2025.2/admin/>`_,
-the
-`OpenStack 2025.1 (Epoxy) Administrator Guides <https://docs.openstack.org/2025.1/admin/>`_,
 or the
-`OpenStack 2024.2 (Dalmatian) Administrator Guides <https://docs.openstack.org/2024.2/admin/>`_.
+`OpenStack 2025.1 (Epoxy) Administrator Guides <https://docs.openstack.org/2025.1/admin/>`_.
 
 .. toctree::
    :maxdepth: 1
