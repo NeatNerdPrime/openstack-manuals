@@ -10,6 +10,8 @@ one networking service, and the Dashboard, the Object Storage service can
 operate independently. If your use case only involves Object Storage, you can
 skip to
 
+* `Object Storage Installation Guide for 2026.1 (Gazpacho) <https://docs.openstack.org/swift/2026.1/install/>`_
+
 * `Object Storage Installation Guide for 2025.2 (Flamingo) <https://docs.openstack.org/swift/2025.2/install/>`_
 
 * `Object Storage Installation Guide for 2025.1 (Epoxy) <https://docs.openstack.org/swift/2025.1/install/>`_
@@ -68,6 +70,8 @@ of nested VMs.
    interface.
 
 For more information about system requirements, see the
+`OpenStack 2026.1 (Gazpacho) Administrator Guides <https://docs.openstack.org/2026.1/admin/>`_,
+the
 `OpenStack 2025.2 (Flamingo) Administrator Guides <https://docs.openstack.org/2025.2/admin/>`_,
 the
 `OpenStack 2025.1 (Epoxy) Administrator Guides <https://docs.openstack.org/2025.1/admin/>`_,
